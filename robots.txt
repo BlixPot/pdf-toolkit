@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://blixpot.github.io/pdf-toolkit/sitemap.xml
